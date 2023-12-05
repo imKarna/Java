@@ -153,7 +153,7 @@ class LinkedList{
 
 }
 
-class Mainlink{
+class Main{
     public static void main(String[] args){
         LinkedList ll=new LinkedList();
         int[] arr={10,20,30,40,50};
